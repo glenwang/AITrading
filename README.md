@@ -1,5 +1,6 @@
 # AITrading
 Apply AI on day trading, swing trading and position trading
+
 The primary trading theories come from How to Day Trade For a Living by Andrew Aziz, Ph.D, Mastering the Trade by John Carter, and the Complete Guide to Hedge Funds and Hedge Fund Strategies by Capocci. This project tries to embody their abstract theories with code, and even trade autonomously by the computer. 
 
 Artificial intelligence has a great potential in pattern recognition, including recognising the price's technical patterns. 
