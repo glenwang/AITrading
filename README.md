@@ -13,7 +13,7 @@ Trading procedure:
 3. Train the model to predict prices and market directions. 
 4. Place appropriate orders to capture the upside potential, while restrain the down-side risk. 
 
-Check out the DaytradingModel1.ipynb for an example. 
+Check out the example DaytradingModel1.ipynb, https://github.com/glenwang/AITrading/blob/master/DaytradingModel1.ipynb 
 
 Resources:
 Build a Day-Trading Algorithm and Run it in the Cloud Using Only Free Services
